@@ -16,6 +16,7 @@ class ViewController: UIViewController {
         print( "üçüncü denemeyi de commit'ledim.")
         
         
+        print("dördüncü deneme 2.kez")
         
     }
 
